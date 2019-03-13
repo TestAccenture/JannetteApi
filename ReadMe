@@ -1,0 +1,10 @@
+####Readme
+
+Este proyecto está orientado a BDD, hace uso de herramientas basadas en bdd como Cucumber y Serenity BDD
+
+Para ejecutar el proyecto se debe tener configurado en el ID: Gradle y JUnit
+Refrescar proyecto desde Gradle
+Ejecutar desde JUnit
+
+Para revisar resultado o reporte: revisar ruta (Buscar ruta dentro del proyecto): **API_JANNETTE\target\site\serenity
+Revisar archivo .html
